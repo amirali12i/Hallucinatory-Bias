@@ -1,0 +1,12 @@
+torch>=2.0
+transformers>=4.35
+numpy
+pandas
+scikit-learn
+spacy
+nltk
+pillow
+tqdm
+openai
+anthropic
+xai-sdk  # placeholder for Grok API
